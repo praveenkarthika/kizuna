@@ -1,3 +1,43 @@
-body {
-    color: red;
+body,a {
+    color: #430000 !important;
+}
+
+.carousel-inner{
+    max-height: 400px;
+}
+
+.navbar-toggler{
+    background-color: #430000;
+    color: white;
+    border-radius: 25px;
+}
+.card-whyweexist, .card-mission, .card-values{
+ background-color: #EBEBEB;  
+ border: none !important; 
+}
+
+.card-vision{
+    border: none !important; 
+
+}
+.section-whyweexist{
+    border: none;
+    background-color: #EBEBEB;  
+}
+
+section{
+    max-height: 300px;
+    margin-top: 10px;
+}
+
+.footer-logo{
+    max-width: 150px;
+    max-height: 150px;
+    margin-left: 88px;
+}
+
+.header-logo{
+    max-width: 100px;
+    max-height: 100px;
+    margin-left: 20px;
 }
